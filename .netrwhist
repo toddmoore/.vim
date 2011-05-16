@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/todd/Downloads/peepcode-vim-code'
 let g:netrw_dirhist_2='/Users/todd/Downloads/peepcode-vim-code/tutorial-apache-files'
 let g:netrw_dirhist_3='/Users/todd/Development/recline/src'
+let g:netrw_dirhist_4='/Users/toddmoore/.vim/colors'
