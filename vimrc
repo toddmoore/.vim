@@ -61,6 +61,10 @@ map <leader>tf :tabfirst<cr>
 map <leader>tl :tablast<cr>
 map <leader>tm :tabmove
 
+"Custom Mappings
+"imap <Tab> <C-N> 
+"imap <S-Tab> <C-P>
+
 " Uncomment to use Jamis Buck's file opening plugin
 map <Leader>t :FuzzyFinderTextMate<Enter>
 
@@ -74,3 +78,5 @@ map <Leader>t :FuzzyFinderTextMate<Enter>
 " Automatic fold settings for specific files. Uncomment to use.
 " autocmd FileType ruby setlocal foldmethod=syntax
 " autocmd FileType css  setlocal foldmethod=indent shiftwidth=2 tabstop=2
+"Set nerd tree to active upon load
+
